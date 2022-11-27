@@ -1,0 +1,13 @@
+{
+    "name": "arda-blockchain-intern-task",
+    "version": "1.0.0",
+    "description": "This is the task for Blockchain Engineer Intern position at Arda.",
+    "main": "index.js",
+    "repository": "https://github.com/Arun89-crypto/Arda-Blockchain-Intern-Task",
+    "author": "Arun Jangra",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.2.0",
+        "ethers": "^5.7.2"
+    }
+}
