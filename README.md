@@ -38,4 +38,6 @@ node index.js
 **Contract is getting compiled and deployed without any errors**
 <img src="./images/1.png" width="100%"></img>
 
-This is a task for position as a Blockchain Engineer Intern at Arda.
+**What is impermanent loss ?**
+
+<img src="./images/2.jpeg" width="50%"></img>
