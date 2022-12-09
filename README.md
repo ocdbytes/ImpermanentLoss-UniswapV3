@@ -1,4 +1,4 @@
-# Arda-Blockchain-Intern-Task
+# ImpermanentLoss-UniswapV3-Bot 🤖
 
 Here we were given a task to exit a liquidity pool when impermanent loss is (>50%) by deploying a smart contract which will trigger the exitLiquidity function which we made and will transfer our funds back into the wallet.
 
